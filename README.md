@@ -26,9 +26,7 @@ This project involves analyzing IPL data by building a data pipeline. The main f
 
 ## Files Included
 
-- `data_transformation.py`: Python script containing Apache Spark code for performing data transformations on the IPL dataset.
 - `README.md`: Documentation for the project.
-- `.gitignore`: Git ignore file to exclude unnecessary files from version control.
 
 ## Future Improvements
 
