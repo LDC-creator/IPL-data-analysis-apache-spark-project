@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project involves analyzing IPL (Indian Premier League) data by building a data pipeline. The main focus is on writing Apache Spark code and utilizing different functions to perform data transformations. The goal is to efficiently process and analyze large datasets using Apache Spark's powerful distributed computing capabilities.
+This project involves analyzing IPL data by building a data pipeline. The main focus is on writing Apache Spark code and utilizing different functions to perform data transformations. The goal is to efficiently process and analyze large datasets using Apache Spark's powerful distributed computing capabilities.
 
 ## Technologies Used
 
