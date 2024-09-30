@@ -1,0 +1,46 @@
+[Start]
+   |
+   v
+[Collect IPL Dataset]
+   |
+   |---> [Gather match statistics, player performance, etc.]
+   |
+   v
+[Set Up Apache Spark Environment]
+   |
+   |---> [Install Apache Spark]
+   |        |
+   |        v
+   |   [Configure Spark with Python (PySpark)]
+   |
+   v
+[Develop Data Pipeline]
+   |
+   |---> [Ingest IPL Data using Spark]
+   |        |
+   |        v
+   |   [Create DataFrame for IPL Data]
+   |
+   v
+[Perform Data Transformations]
+   |
+   |---> [Write PySpark Code for Transformations]
+   |        |
+   |        v
+   |   [Clean and Preprocess Data]
+   |
+   v
+[Implement Spark Functions]
+   |
+   |---> [Optimize Spark Functions for Large Datasets]
+   |
+   v
+[Analyze Data]
+   |
+   |---> [Run Analysis Queries on Processed Data]
+   |        |
+   |        v
+   |   [Generate Insights and Visualizations]
+   |
+   v
+[End]
